@@ -4,7 +4,7 @@
   "logo": "https://www.odoo.com/brand/x1.png",
   "repository": "https://github.com/MTES-MCT/odoo-scalingo",
   "website": "https://odoo.com",
-  "stack": "scalingo-18",
+  "stack": "scalingo-20",
   "env": {
     "wkhtmltopdf_VERSION": {
       "description": "wkhtmltopdf version",

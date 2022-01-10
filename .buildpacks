@@ -1,2 +1,2 @@
 https://github.com/Scalingo/apt-buildpack.git
-https://github.com/tristanrobert/odoo-buildpack.git#apt-buildpack
+https://github.com/tristanrobert/odoo-buildpack.git#python
