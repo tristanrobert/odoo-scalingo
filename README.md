@@ -1,6 +1,6 @@
 # odoo-scalingo
 
-> Odoo scalingo app
+> [Odoo](https://odoo.com) scalingo app
 
 ## Hacking
 
