@@ -1,0 +1,6 @@
+/tmp/cache
+/.cache
+.tx
+.github
+doc
+debian
